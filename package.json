@@ -1,0 +1,15 @@
+{
+  "name": "certificate-generator",
+  "version": "1.0.0",
+  "description": "Generate certificates.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Shashank",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.2",
+    "slugify": "^1.6.5"
+  }
+}
